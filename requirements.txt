@@ -1,0 +1,16 @@
+# Pinned versions - tested on Python 3.10 to 3.13 (Windows / macOS / Linux).
+# Data + ML
+numpy==2.2.6
+pandas==2.2.3
+scipy==1.15.3
+scikit-learn==1.6.1
+joblib==1.5.1
+kagglehub==0.3.12
+matplotlib==3.10.3
+# Serving
+fastapi==0.115.12
+uvicorn==0.34.3
+pydantic==2.11.5
+httpx==0.28.1
+# Testing
+pytest==8.3.5
